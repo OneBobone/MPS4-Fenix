@@ -1,6 +1,6 @@
 {
-  "version": "20260810.4",
-  "installer": "MPS4-Fenix-Setup-20260810.4.exe",
-  "sha256": "02263DC4DF0CBA81C0B926868E3B0566B3FC6D2C2EA4D3C1CAA76F57522D0442",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260810.4/MPS4-Fenix-Setup-20260810.4.exe"
+  "version": "20260810.5",
+  "installer": "MPS4-Fenix-Setup-20260810.5.exe",
+  "sha256": "77033A809445D3590BEFAB89704C699B66C0D0D96551D17B63F9BF5BD6D97B30",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260810.5/MPS4-Fenix-Setup-20260810.5.exe"
 }
