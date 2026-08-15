@@ -1,7 +1,7 @@
 {
-  "version": "20260815.1",
+  "version": "20260815.2",
   "notes": "Improvements\n\n- Zones can be given custom display names shown in the apps, useful when an amplifier cannot display local-language names.\n- MusicPort web app updates.",
-  "installer": "MPS4-Fenix-Setup-20260815.1.exe",
-  "sha256": "E5E4C3453D23193080FB58D808ADD52954E928D6469A06728837137E679751D2",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260815.1/MPS4-Fenix-Setup-20260815.1.exe"
+  "installer": "MPS4-Fenix-Setup-20260815.2.exe",
+  "sha256": "E53D1FCE247BD375BFA23B14FFB19715A3958BCD3D9DE31254FC40A80249A322",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260815.2/MPS4-Fenix-Setup-20260815.2.exe"
 }
