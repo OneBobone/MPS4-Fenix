@@ -1,7 +1,7 @@
 {
-  "version": "20260816.1",
+  "version": "20260816.2",
   "notes": "Added Amazon Music\nAdded Calm Radio\nImproved configuration pages\nBug fixes",
-  "installer": "MPS4-Fenix-Setup-20260816.1.exe",
-  "sha256": "6D7D7E34809B3C5119F0B756F72563A17B64A2B42B820B738DF2701731422322",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260816.1/MPS4-Fenix-Setup-20260816.1.exe"
+  "installer": "MPS4-Fenix-Setup-20260816.2.exe",
+  "sha256": "E6F79B12427C3AD3E1774AF30BFEBA0E0ED9CE07F80D07D215564BA8E51DE984",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260816.2/MPS4-Fenix-Setup-20260816.2.exe"
 }
