@@ -1,7 +1,7 @@
 {
-  "version": "20260817.2",
-  "notes": "Improves Calm Radio artwork throughout the system.",
-  "installer": "MPS4-Fenix-Setup-20260817.2.exe",
-  "sha256": "E432B8CF143AE2076EF9ECF365EB97B3D697F68CC34ABB2D4257B634E3EF69F6",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260817.2/MPS4-Fenix-Setup-20260817.2.exe"
+  "version": "20260817.3",
+  "notes": "Adds the MusicPort client and improves Amazon Music browsing, playback, queue handling, and track progress display.",
+  "installer": "MPS4-Fenix-Setup-20260817.3.exe",
+  "sha256": "8A0D88D95D8399E1D37369C93A3AB8A2B91AFB7815BD9884B86B28D379266A3C",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260817.3/MPS4-Fenix-Setup-20260817.3.exe"
 }
