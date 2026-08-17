@@ -1,7 +1,7 @@
 {
-  "version": "20260817.1",
-  "notes": "Fenix branding and desktop navigation refinements.\nMusicPort zone controls, source selection, and Local/Streaming navigation improvements.\nImproved support log delivery and clearer delivery status.",
-  "installer": "MPS4-Fenix-Setup-20260817.1.exe",
-  "sha256": "0837FAABF24EF65EFAE14546C92CB226E5786782A7AE798F4CB87667C71C9EEC",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260817.1/MPS4-Fenix-Setup-20260817.1.exe"
+  "version": "20260817.2",
+  "notes": "Improves Calm Radio artwork throughout the system.",
+  "installer": "MPS4-Fenix-Setup-20260817.2.exe",
+  "sha256": "E432B8CF143AE2076EF9ECF365EB97B3D697F68CC34ABB2D4257B634E3EF69F6",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260817.2/MPS4-Fenix-Setup-20260817.2.exe"
 }
