@@ -1,7 +1,7 @@
 {
-  "version": "20260817.3",
-  "notes": "Adds the MusicPort client and improves Amazon Music browsing, playback, queue handling, and track progress display.",
-  "installer": "MPS4-Fenix-Setup-20260817.3.exe",
-  "sha256": "8A0D88D95D8399E1D37369C93A3AB8A2B91AFB7815BD9884B86B28D379266A3C",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260817.3/MPS4-Fenix-Setup-20260817.3.exe"
+  "version": "20260825.1",
+  "notes": "Adds KKBox music integration and improves streaming playback responsiveness.",
+  "installer": "MPS4-Fenix-Setup-20260825.1.exe",
+  "sha256": "3F37454DBD7FA193D19E5027CBFC8892E23E62619A004AE8272065C2E2AAD940",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260825.1/MPS4-Fenix-Setup-20260825.1.exe"
 }
