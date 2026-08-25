@@ -1,7 +1,7 @@
 {
-  "version": "20260825.1",
-  "notes": "Adds KKBox music integration and improves streaming playback responsiveness.",
-  "installer": "MPS4-Fenix-Setup-20260825.1.exe",
-  "sha256": "3F37454DBD7FA193D19E5027CBFC8892E23E62619A004AE8272065C2E2AAD940",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260825.1/MPS4-Fenix-Setup-20260825.1.exe"
+  "version": "20260825.2",
+  "notes": "Adds KKBox music streaming and improves Amazon Music playback, queue controls, stations, and source transitions.",
+  "installer": "MPS4-Fenix-Setup-20260825.2.exe",
+  "sha256": "980F552B3F14CEAF13BE401E32B3B5173DE5276CE945664FE217A7ED554D98A6",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260825.2/MPS4-Fenix-Setup-20260825.2.exe"
 }
