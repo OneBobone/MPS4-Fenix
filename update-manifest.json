@@ -1,7 +1,7 @@
 {
-  "version": "20260825.3",
-  "notes": "KKBox is now fully presented in both Fenix and Music Port, with translated access to Search, Charts, Featured Playlists, My Collections and My Playlists.\n\nMusic Port now uses the corrected names for streaming sources and clearer Local and Streaming labels in every supported language.",
-  "installer": "MPS4-Fenix-Setup-20260825.3.exe",
-  "sha256": "C4D9A7376516CA36A6EF9BDAF9E23102B1F100982EF5083D61F63FAAD514D331",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260825.3/MPS4-Fenix-Setup-20260825.3.exe"
+  "version": "20260826.1",
+  "notes": "Bug fix",
+  "installer": "MPS4-Fenix-Setup-20260826.1.exe",
+  "sha256": "F0790DFE61BE89B8CCBB1DD6989B5BD2C899D0CE7C7347C0709037E60D789CE4",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260826.1/MPS4-Fenix-Setup-20260826.1.exe"
 }
