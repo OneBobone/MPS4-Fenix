@@ -1,7 +1,7 @@
 {
-  "version": "20260828.1",
-  "notes": "Spotify sign-in and library refresh reliability improvements.",
-  "installer": "MPS4-Fenix-Setup-20260828.1.exe",
-  "sha256": "21BF63D554E98F9169C5BEE77CF9934F50BE4412E185D53CB5B3480B9595908A",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260828.1/MPS4-Fenix-Setup-20260828.1.exe"
+  "version": "20260828.2",
+  "notes": "Improved update installation reliability and clearer recovery messages when a required component is unavailable.",
+  "installer": "MPS4-Fenix-Setup-20260828.2.exe",
+  "sha256": "37EB89425D6558D398B256C036E7DAC61215D73D9400177049372EED408EBB14",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260828.2/MPS4-Fenix-Setup-20260828.2.exe"
 }
