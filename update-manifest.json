@@ -1,7 +1,7 @@
 {
-  "version": "20260829.1",
-  "notes": "Improves Windows 7 compatibility for streaming music services.",
-  "installer": "MPS4-Fenix-Setup-20260829.1.exe",
-  "sha256": "773F2670319519B2D3E409E34BA807450CC29135D86F62D513EB9B06CB36FF53",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260829.1/MPS4-Fenix-Setup-20260829.1.exe"
+  "version": "20260829.2",
+  "notes": "Improves MusicPort playback controls and makes streaming-source navigation load more smoothly.",
+  "installer": "MPS4-Fenix-Setup-20260829.2.exe",
+  "sha256": "2E71B61944D3C1314711356CAE19C682355343A035196C7D6A9FBCD80678F6D6",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260829.2/MPS4-Fenix-Setup-20260829.2.exe"
 }
