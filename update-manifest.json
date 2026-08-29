@@ -1,7 +1,7 @@
 {
-  "version": "20260828.3",
-  "notes": "Improved update progress and completion reporting.",
-  "installer": "MPS4-Fenix-Setup-20260828.3.exe",
-  "sha256": "4EFDBB8103D1149BFA9E68B34D845B33F367526AFA079CBAD792871EDF6A8269",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260828.3/MPS4-Fenix-Setup-20260828.3.exe"
+  "version": "20260829.1",
+  "notes": "Improves Windows 7 compatibility for streaming music services.",
+  "installer": "MPS4-Fenix-Setup-20260829.1.exe",
+  "sha256": "773F2670319519B2D3E409E34BA807450CC29135D86F62D513EB9B06CB36FF53",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260829.1/MPS4-Fenix-Setup-20260829.1.exe"
 }
