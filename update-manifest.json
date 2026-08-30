@@ -1,7 +1,7 @@
 {
-  "version": "20260829.3",
-  "notes": "MusicPort radio source improvements\nPlayer selection reliability improvements",
-  "installer": "MPS4-Fenix-Setup-20260829.3.exe",
-  "sha256": "FCD736E03771408B5463B5C894FDD3EEABCF9A5BC5F8699F0716EF7EBE913F26",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260829.3/MPS4-Fenix-Setup-20260829.3.exe"
+  "version": "20260830.1",
+  "notes": "MusicPort now keeps each zone connected to the player source you select, with more reliable source switching and playback updates.",
+  "installer": "MPS4-Fenix-Setup-20260830.1.exe",
+  "sha256": "517E96F95131B6A3D3B39C82410DC84AC555C1B62A1E069C8A156B40DF3B3250",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260830.1/MPS4-Fenix-Setup-20260830.1.exe"
 }
