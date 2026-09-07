@@ -1,7 +1,7 @@
 {
-  "version": "20260902.3",
-  "notes": "Improves Bonjour prerequisite recovery on Windows 7, including systems with a stale installer source.",
-  "installer": "MPS4-Fenix-Setup-20260902.3.exe",
-  "sha256": "A1A062500AB4EFBD0D94A59EB168EA2E87BB5FF59F73D56BF9E7769D6EF6FA93",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260902.3/MPS4-Fenix-Setup-20260902.3.exe"
+  "version": "20260907.1",
+  "notes": "Configuration: Sources page no longer prompts to save when nothing was changed",
+  "installer": "MPS4-Fenix-Setup-20260907.1.exe",
+  "sha256": "69179ACD1612E846C1BC9F2B53482C7CC0F691C8F42027842AC0D5FEA5C153BE",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260907.1/MPS4-Fenix-Setup-20260907.1.exe"
 }
