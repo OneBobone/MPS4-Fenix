@@ -1,7 +1,7 @@
 {
-  "version": "20260918.1",
-  "notes": "Adds Sonos speaker support alongside Chromecast Audio, with native grouping and stereo-pair handling, and fixes MusicPort zones closing immediately and showing the wrong source list.",
-  "installer": "MPS4-Fenix-Setup-20260918.1.exe",
-  "sha256": "22826FC735F0520636C419A600D3D0C1587029F1C6F3BB81346EAEAA9D90FF53",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260918.1/MPS4-Fenix-Setup-20260918.1.exe"
+  "version": "20260919.1",
+  "notes": "Auxiliary sources: the Custom page now discovers Sonos, HEOS, Chromecast Audio, Onkyo/Integra, Denon/Marantz and Yamaha MusicCast devices automatically, and shows each device\u0027s real inputs and zones before you save\nChromecast Audio: playback seek and the name of the casting app are now shown on the apps and NuVo displays",
+  "installer": "MPS4-Fenix-Setup-20260919.1.exe",
+  "sha256": "C78F83B2BB3D5D72C967BD821FFA6A30506A0147AC19160FE0CA5582136A3ECA",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260919.1/MPS4-Fenix-Setup-20260919.1.exe"
 }
