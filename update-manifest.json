@@ -1,7 +1,7 @@
 {
-  "version": "20260919.1",
-  "notes": "Auxiliary sources: the Custom page now discovers Sonos, HEOS, Chromecast Audio, Onkyo/Integra, Denon/Marantz and Yamaha MusicCast devices automatically, and shows each device\u0027s real inputs and zones before you save\nChromecast Audio: playback seek and the name of the casting app are now shown on the apps and NuVo displays",
-  "installer": "MPS4-Fenix-Setup-20260919.1.exe",
-  "sha256": "C78F83B2BB3D5D72C967BD821FFA6A30506A0147AC19160FE0CA5582136A3ECA",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260919.1/MPS4-Fenix-Setup-20260919.1.exe"
+  "version": "20260921.1",
+  "notes": "AirPlay speakers: wireless zones now send track details, artwork and playback progress to the speaker, and the speaker\u0027s volume stays in step with the zone\u0027s volume control.\nAirPlay: pausing now holds the connection for up to three minutes so playback resumes instantly, and pausing from an AirPlay sender no longer ends the session.\nWireless zones: powering a wireless zone on or off no longer stops music that other zones are playing, and speaker delay adjustments take effect while music is playing.",
+  "installer": "MPS4-Fenix-Setup-20260921.1.exe",
+  "sha256": "40A94FCE0AF6D628D1F283BC13A03DB1FD24E17C20925C149A514BD51F96808D",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260921.1/MPS4-Fenix-Setup-20260921.1.exe"
 }
