@@ -1,7 +1,7 @@
 {
-  "version": "20260921.1",
-  "notes": "AirPlay speakers: wireless zones now send track details, artwork and playback progress to the speaker, and the speaker\u0027s volume stays in step with the zone\u0027s volume control.\nAirPlay: pausing now holds the connection for up to three minutes so playback resumes instantly, and pausing from an AirPlay sender no longer ends the session.\nWireless zones: powering a wireless zone on or off no longer stops music that other zones are playing, and speaker delay adjustments take effect while music is playing.",
-  "installer": "MPS4-Fenix-Setup-20260921.1.exe",
-  "sha256": "40A94FCE0AF6D628D1F283BC13A03DB1FD24E17C20925C149A514BD51F96808D",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260921.1/MPS4-Fenix-Setup-20260921.1.exe"
+  "version": "20260926.1",
+  "notes": "Bluetooth speakers: a paired Bluetooth speaker can now be used as an MCS source and as a wireless zone. It keeps its place while switched off or unplugged, and is silent unless a powered zone has selected it.\nBluetooth speaker buttons: pause, next and previous on the speaker now control the music playing to it. Resuming after a pause is still done from the app.\nWireless zones: the Wireless page lists Bluetooth and AirPlay speakers together, and wireless zones select sources, clear them and follow transport controls like any other zone.\nAirPlay: speaker names with accented or non-English characters now display correctly.\nConfig: on the Aux page, Save and Undo sit beside the table, and the wait-one-minute notice appears in red as soon as you press Save.",
+  "installer": "MPS4-Fenix-Setup-20260926.1.exe",
+  "sha256": "80500A9E6D150FB7AEF622714F064AFA9B2E76193DB244E6104216BE8BAB45F8",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260926.1/MPS4-Fenix-Setup-20260926.1.exe"
 }
