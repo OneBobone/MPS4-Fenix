@@ -1,7 +1,3 @@
-# MPS4-Fenix
-
-MPS4 MCS Update
-
 ## Release notes
 
 **Changes since MPS4 Fenix 20260804.1**
