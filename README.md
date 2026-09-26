@@ -24,13 +24,12 @@
 
 ### Config Web Application
 
-- Add Wireless and Auxiliary pages
-- Add sign-in to Amazon Music and Calm Radio accounts from the Config pages
-- Simplify the Server page and improve firmware update progress
-- Hide retired sources on the Content page
 - Fix a spurious "saved" banner on the Sources page
+- Add Wireless and Auxiliary pages
+- Hide retired sources on the Content page
+- Simplify the Server page and improve firmware update progress
 
-### Fenix and MusicPort PWA and Web
+### Fenix and MusicPort PWA (Progressive Web App for iOS/Android) and Web
 
 - Keep Fenix zones on the player source you select, with more reliable source switching and playback updates
 - Rebuild MusicPort with zone list, source picker, player and queue, and desktop navigation refinements
