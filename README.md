@@ -1,6 +1,6 @@
 ## Release notes
 
-**Changes since MPS4 Fenix 20260804.1**
+**Changes since Fenix 20260804.1**
 
 ### New Sources
 
