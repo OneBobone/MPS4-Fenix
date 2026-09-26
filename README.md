@@ -14,10 +14,11 @@
 - Add an Auxiliary page with automatic discovery
 - Add Bluetooth and AirPlay speakers as wireless zones, managed on a new Wireless page
 
-### General Software Improvements
+### Fenix and MusicPort PWA (Progressive Web App for iOS/Android) and Web
 
-- Improve update installation reliability, progress reporting and recovery messages
-- Add custom zone display names shown in the apps in local-language names
+- Keep Fenix zones on the player source you select, with more reliable source switching and playback updates
+- Rebuild MusicPort with zone list, source picker, player and queue, and desktop navigation refinements
+- Remember the MusicPort zone, tab and streaming account between visits
 
 ### Config Web Application
 
@@ -25,11 +26,10 @@
 - Hide retired sources on the Content page
 - Simplify the Server page and improve firmware update progress
 
-### Fenix and MusicPort PWA (Progressive Web App for iOS/Android) and Web
+### General Software Improvements
 
-- Keep Fenix zones on the player source you select, with more reliable source switching and playback updates
-- Rebuild MusicPort with zone list, source picker, player and queue, and desktop navigation refinements
-- Remember the MusicPort zone, tab and streaming account between visits
+- Improve update installation reliability, progress reporting and recovery messages
+- Add custom zone display names shown in the apps in local-language names
 
 
 ## Release notes
