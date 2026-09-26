@@ -20,7 +20,6 @@
 - Improve album art and now-playing refresh across the apps
 - Improve metadata character handling for accented and non-English speaker names
 - Add custom zone display names shown in the apps in local-language names
-- Use TLS 1.2 by default for client connections and server update downloads on Windows 7
 
 ### Config Web Application
 
@@ -58,7 +57,6 @@
 
 ### General Software Improvements
 
-- Remove dependencies on Autonomic online services
 - Improve restart, reconnection and shell recovery reliability
 - Improve audio-device identification and playback routing
 - Improve metadata character handling
