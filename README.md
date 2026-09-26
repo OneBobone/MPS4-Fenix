@@ -17,14 +17,11 @@
 ### General Software Improvements
 
 - Improve update installation reliability, progress reporting and recovery messages
-- Improve album art and now-playing refresh across the apps
-- Improve metadata character handling for accented and non-English speaker names
 - Add custom zone display names shown in the apps in local-language names
 
 ### Config Web Application
 
 - Fix a spurious "saved" banner on the Sources page
-- Add Wireless and Auxiliary pages
 - Hide retired sources on the Content page
 - Simplify the Server page and improve firmware update progress
 
@@ -34,13 +31,6 @@
 - Rebuild MusicPort with zone list, source picker, player and queue, and desktop navigation refinements
 - Remember the MusicPort zone, tab and streaming account between visits
 
-### Spotify
-
-- Improve Spotify account authorization on Windows 7
-
-### TIDAL
-
-- Improve TIDAL account authorization on Windows 7
 
 ## Release notes
 
