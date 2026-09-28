@@ -1,7 +1,7 @@
 {
-  "version": "20260926.1",
-  "notes": "Bluetooth speakers: a paired Bluetooth speaker can now be used as an MCS source and as a wireless zone. It keeps its place while switched off or unplugged, and is silent unless a powered zone has selected it.\nBluetooth speaker buttons: pause, next and previous on the speaker now control the music playing to it. Resuming after a pause is still done from the app.\nWireless zones: the Wireless page lists Bluetooth and AirPlay speakers together, and wireless zones select sources, clear them and follow transport controls like any other zone.\nAirPlay: speaker names with accented or non-English characters now display correctly.\nConfig: on the Aux page, Save and Undo sit beside the table, and the wait-one-minute notice appears in red as soon as you press Save.",
-  "installer": "MPS4-Fenix-Setup-20260926.1.exe",
-  "sha256": "80500A9E6D150FB7AEF622714F064AFA9B2E76193DB244E6104216BE8BAB45F8",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260926.1/MPS4-Fenix-Setup-20260926.1.exe"
+  "version": "20260928.1",
+  "notes": "CasaNova: a new app for choosing rooms, seeing what is playing and browsing music, at /CasaNova/ on your server. It can be added to the home screen like Fenix and MusicPort, adapts to phones and tablets, and is available in English, French, Swedish, Spanish, German, Italian, Chinese and Japanese.\nConfig: the Server Settings page now shows its help text correctly instead of garbled characters.",
+  "installer": "MPS4-Fenix-Setup-20260928.1.exe",
+  "sha256": "8EC23D3152FC42348502FF1AED4AE92ECD11C46D3743758082EBBE1BA79D1A84",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260928.1/MPS4-Fenix-Setup-20260928.1.exe"
 }
