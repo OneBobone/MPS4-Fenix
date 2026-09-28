@@ -1,7 +1,7 @@
 {
-  "version": "20260928.1",
-  "notes": "CasaNova: a new app for choosing rooms, seeing what is playing and browsing music, at /CasaNova/ on your server. It can be added to the home screen like Fenix and MusicPort, adapts to phones and tablets, and is available in English, French, Swedish, Spanish, German, Italian, Chinese and Japanese.\nConfig: the Server Settings page now shows its help text correctly instead of garbled characters.",
-  "installer": "MPS4-Fenix-Setup-20260928.1.exe",
-  "sha256": "8EC23D3152FC42348502FF1AED4AE92ECD11C46D3743758082EBBE1BA79D1A84",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260928.1/MPS4-Fenix-Setup-20260928.1.exe"
+  "version": "20260928.2",
+  "notes": "MusicPort: recovers by itself after a lost connection or a server restart, and no longer stays on \"Loading...\" after you turn a room on.\nCasaNova: \"Clear queue\" is now in the room menu on phones, and choosing a playlist no longer starts it twice.\nCalm Radio: channel lists open much faster, and the server no longer stops responding after many Calm Radio plays.\nAirPlay: a speaker added while a track is playing now starts straight away instead of at the next track.",
+  "installer": "MPS4-Fenix-Setup-20260928.2.exe",
+  "sha256": "E284FB7ABD100D27B62FB673EA73157A70E87737EC6F57672A6F7C01EFDE73CD",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260928.2/MPS4-Fenix-Setup-20260928.2.exe"
 }
