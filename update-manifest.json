@@ -1,7 +1,7 @@
 {
-  "version": "20260929.1",
-  "notes": "Improves online music browsing with immediate loading feedback for Amazon Music and KKBox personal collections and playlists. Root menus open without waiting for remote catalogue requests, then refresh automatically when content is ready. Previously loaded KKBox library content is reused during the session, and unavailable library responses now show a clear status instead of an empty page.",
-  "installer": "MPS4-Fenix-Setup-20260929.1.exe",
-  "sha256": "08DC3B32395853685FB450F28DF08CF44854FA5DCBCCFA2BF48210B8B2133D20",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260929.1/MPS4-Fenix-Setup-20260929.1.exe"
+  "version": "20260929.2",
+  "notes": "TIDAL: tracks now keep their full length on the progress bar and wall controls. Previously the length changed to 20-50 seconds shortly after a track started, making tracks look like short previews even though they played in full.\nServer log: the Media Control Server log file is named app-AhEhSrvr.log again, and the startup log reports whether Windows is 32 or 64 bit correctly.",
+  "installer": "MPS4-Fenix-Setup-20260929.2.exe",
+  "sha256": "D95B7650BC470635B021C48CB77683445A32066C6BB7CFD2ED3813CB5E5537E5",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260929.2/MPS4-Fenix-Setup-20260929.2.exe"
 }
