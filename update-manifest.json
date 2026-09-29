@@ -1,7 +1,7 @@
 {
-  "version": "20260928.2",
-  "notes": "MusicPort: recovers by itself after a lost connection or a server restart, and no longer stays on \"Loading...\" after you turn a room on.\nCasaNova: \"Clear queue\" is now in the room menu on phones, and choosing a playlist no longer starts it twice.\nCalm Radio: channel lists open much faster, and the server no longer stops responding after many Calm Radio plays.\nAirPlay: a speaker added while a track is playing now starts straight away instead of at the next track.",
-  "installer": "MPS4-Fenix-Setup-20260928.2.exe",
-  "sha256": "E284FB7ABD100D27B62FB673EA73157A70E87737EC6F57672A6F7C01EFDE73CD",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260928.2/MPS4-Fenix-Setup-20260928.2.exe"
+  "version": "20260929.1",
+  "notes": "Improves online music browsing with immediate loading feedback for Amazon Music and KKBox personal collections and playlists. Root menus open without waiting for remote catalogue requests, then refresh automatically when content is ready. Previously loaded KKBox library content is reused during the session, and unavailable library responses now show a clear status instead of an empty page.",
+  "installer": "MPS4-Fenix-Setup-20260929.1.exe",
+  "sha256": "08DC3B32395853685FB450F28DF08CF44854FA5DCBCCFA2BF48210B8B2133D20",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260929.1/MPS4-Fenix-Setup-20260929.1.exe"
 }
