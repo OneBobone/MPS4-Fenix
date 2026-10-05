@@ -1,7 +1,7 @@
 {
-  "version": "20261005.2",
-  "notes": "CasaNova: \"now playing\" now appears for every player, including players that have been renamed. The room name is shown next to the power button.",
-  "installer": "MPS4-Fenix-Setup-20261005.2.exe",
-  "sha256": "474066B9B597945830A7B94A67DB6B47410DE4888A3A01F096EAA919E80566E1",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261005.2/MPS4-Fenix-Setup-20261005.2.exe"
+  "version": "20261005.3",
+  "notes": "Fenix: rooms now always play and show their own player, also when a source\u0027s name differs from its player.\nCasaNova: after an update, browsers load the new version instead of a stored copy.\nUninstall: removes the program completely, including its settings, logs and Windows entries. Only the licence files and the helper programs (Bonjour, VLC, Visual C++ runtime) are kept.",
+  "installer": "MPS4-Fenix-Setup-20261005.3.exe",
+  "sha256": "D5380F08A972C1A979C3D6A018BD20E801F9B4EF5C331EE73F3ECDC7A62D5A3B",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261005.3/MPS4-Fenix-Setup-20261005.3.exe"
 }
