@@ -1,7 +1,7 @@
 {
-  "version": "20260929.2",
-  "notes": "TIDAL: tracks now keep their full length on the progress bar and wall controls. Previously the length changed to 20-50 seconds shortly after a track started, making tracks look like short previews even though they played in full.\nServer log: the Media Control Server log file is named app-AhEhSrvr.log again, and the startup log reports whether Windows is 32 or 64 bit correctly.",
-  "installer": "MPS4-Fenix-Setup-20260929.2.exe",
-  "sha256": "D95B7650BC470635B021C48CB77683445A32066C6BB7CFD2ED3813CB5E5537E5",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20260929.2/MPS4-Fenix-Setup-20260929.2.exe"
+  "version": "20261005.1",
+  "notes": "NuVo via RS-232: choosing it on the Sources page now searches every COM port for the NuVo bridge and selects the port and speed it answers on. The serial ports are reserved for the bridge, the port can also be chosen by hand, and the page shows whether the bridge is communicating.\nAttero Tech MatchBox USB: the Sources page now offers its four stereo outputs the first time the card is found, without the MCS Configurator.\nFirmware page: shows the date the installed release expires. The server log and window titles show the MPS4 Fenix release number.\nAuxiliary page: MCS sources are listed with the same names as on the Sources page.",
+  "installer": "MPS4-Fenix-Setup-20261005.1.exe",
+  "sha256": "D90EA0B4306B3543F2F03B1FBC8FE792AD6BA8A87E9B0DF68EB3ADE7B0F9FC72",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261005.1/MPS4-Fenix-Setup-20261005.1.exe"
 }
