@@ -1,7 +1,7 @@
 {
-  "version": "20261007.1",
-  "notes": "Sources page: new option \"Override amplifier source names\" shows the names given to the players on this page in all apps, also names the amplifier cannot store.\nKKBox: Charts and Featured Playlists open at once, lists you return to open instantly, and My Collections and My Playlists appear within seconds; a list that is still loading fills in by itself.\nFenix: the zone and source lists in the player are easier to read.",
-  "installer": "MPS4-Fenix-Setup-20261007.1.exe",
-  "sha256": "D5363D0EDE1F91466A5CB8B9FED625EB7CA62181B4024FE1B2D75848D7624A46",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261007.1/MPS4-Fenix-Setup-20261007.1.exe"
+  "version": "20261010.1",
+  "notes": "KKBox: new Mood Stations and Genre Stations. Genre stations are grouped by category and each shows the cover of its first album; songs that cannot be played are left out. The new menus are translated in every app language.\r\nSoftware page: release notes that contain quotes are shown in full.",
+  "installer": "MPS4-Fenix-Setup-20261010.1.exe",
+  "sha256": "1A638C5EE74CDF157658344DE39EA508E4A4A7D881BDFE57BB9F8A0374E4BACB",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.1/MPS4-Fenix-Setup-20261010.1.exe"
 }
