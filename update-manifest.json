@@ -1,7 +1,7 @@
 {
-  "version": "20261010.3",
-  "notes": "KKBox: tracks start faster.\r\nChoosing a radio station now replaces the whole queue.\r\nMusicPort: Clear queue in the queue view asks for confirmation and returns to the home page.\r\nDevice discovery works on systems whose regional settings use a decimal comma.",
-  "installer": "MPS4-Fenix-Setup-20261010.3.exe",
-  "sha256": "C413E41F3E81E51AD38888D7BA9CB7186DBBFB88F48765ACDAA27F4AC6A85756",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.3/MPS4-Fenix-Setup-20261010.3.exe"
+  "version": "20261010.4",
+  "notes": "CasaNova: the player screen shows only the source chips, leaving more room for the album art.",
+  "installer": "MPS4-Fenix-Setup-20261010.4.exe",
+  "sha256": "884638AECBE3AEC0AB03F14981E141795BEE75E08724A7351AF8504B681525D9",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.4/MPS4-Fenix-Setup-20261010.4.exe"
 }
