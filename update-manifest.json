@@ -1,7 +1,7 @@
 {
-  "version": "20261010.2",
-  "notes": "Streaming services: maintenance update.",
-  "installer": "MPS4-Fenix-Setup-20261010.2.exe",
-  "sha256": "0A6CBCC6AC5A6B2D460A61E89D13A33C8C395F5111D88DF653FCD7A59638B38E",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.2/MPS4-Fenix-Setup-20261010.2.exe"
+  "version": "20261010.3",
+  "notes": "KKBox: tracks start faster.\r\nChoosing a radio station now replaces the whole queue.\r\nMusicPort: Clear queue in the queue view asks for confirmation and returns to the home page.\r\nDevice discovery works on systems whose regional settings use a decimal comma.",
+  "installer": "MPS4-Fenix-Setup-20261010.3.exe",
+  "sha256": "C413E41F3E81E51AD38888D7BA9CB7186DBBFB88F48765ACDAA27F4AC6A85756",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.3/MPS4-Fenix-Setup-20261010.3.exe"
 }
