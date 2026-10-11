@@ -1,7 +1,7 @@
 {
-  "version": "20261010.4",
-  "notes": "CasaNova: the player screen shows only the source chips, leaving more room for the album art.",
-  "installer": "MPS4-Fenix-Setup-20261010.4.exe",
-  "sha256": "884638AECBE3AEC0AB03F14981E141795BEE75E08724A7351AF8504B681525D9",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261010.4/MPS4-Fenix-Setup-20261010.4.exe"
+  "version": "20261011.1",
+  "notes": "NuVo tuner: a NuVo tuner can now be added as a source on the Auxiliary page. It then appears in the apps like any other source, showing the station and its RDS text, and next/previous search for the next station.\nNuVo control pad menus: a new page lets you design the menus shown on NuVo control pads for each source. In this release the menus are saved only; the control pads keep their current menus.\nCasaNova: album art sizing on the player screen corrected.",
+  "installer": "MPS4-Fenix-Setup-20261011.1.exe",
+  "sha256": "F62C36B4EB5DD9C90138072DA65D7900C6AFAFF5D5C3DDBDDD857ECC730E8B98",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261011.1/MPS4-Fenix-Setup-20261011.1.exe"
 }
