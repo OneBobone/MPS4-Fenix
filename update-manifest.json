@@ -1,7 +1,7 @@
 {
-  "version": "20261011.1",
-  "notes": "NuVo tuner: a NuVo tuner can now be added as a source on the Auxiliary page. It then appears in the apps like any other source, showing the station and its RDS text, and next/previous search for the next station.\nNuVo control pad menus: a new page lets you design the menus shown on NuVo control pads for each source. In this release the menus are saved only; the control pads keep their current menus.\nCasaNova: album art sizing on the player screen corrected.",
-  "installer": "MPS4-Fenix-Setup-20261011.1.exe",
-  "sha256": "F62C36B4EB5DD9C90138072DA65D7900C6AFAFF5D5C3DDBDDD857ECC730E8B98",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261011.1/MPS4-Fenix-Setup-20261011.1.exe"
+  "version": "20261021.1",
+  "notes": "NuVo tuner: the apps can now browse the tuner\u0027s own presets, folders and modes and select them directly.\nNuVo control pad menus: the menu designer gains options per item (highlight, checkmark, greyed, ask before running, where to go afterwards), names filled in from the room and source, a Rooms list to group rooms on a source, ready-made sleep timer, wake-up and daily all-off folders, and items whose caption shows live information. Setup installs an example with a Weather item. The designer page is also easier to read. In this release the menus are saved only; the control pads keep their current menus.",
+  "installer": "MPS4-Fenix-Setup-20261021.1.exe",
+  "sha256": "E740E0A980D24417071989DF372A0663C5ACF497BFB94DDF53AC44217516E24B",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261021.1/MPS4-Fenix-Setup-20261021.1.exe"
 }
