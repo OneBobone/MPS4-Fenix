@@ -1,7 +1,7 @@
 {
-  "version": "20261021.2",
-  "notes": "NuVo control pad menus: a ready-made Reboot folder with two items, Restart Fenix and Reboot server, each asking Yes/No first. Helper items no longer need Python installed beforehand: when none is found, the Helper items section offers to install Python from python.org (the right version for this Windows, 32-bit or 64-bit). Typing a helper item by hand is checked more clearly. In this release the menus are saved only; the control pads keep their current menus.",
-  "installer": "MPS4-Fenix-Setup-20261021.2.exe",
-  "sha256": "4936A22B2945EE97A40CEF73A4EAC6AAE5436DF829F6E6F77E76F78B8BCB2A92",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261021.2/MPS4-Fenix-Setup-20261021.2.exe"
+  "version": "20261025.1",
+  "notes": "Adds a Library tab in Config for finding tracks and playlists, editing playlists, and removing selected library entries. Saved streamed tracks now appear in album and artist browsing, with cover art for imported streams. Spotify saved tracks and presets use the registered account for playback. Refreshes the Config header and FENIX banner.",
+  "installer": "MPS4-Fenix-Setup-20261025.1.exe",
+  "sha256": "2A18ED036206FC2DF4EB6777784FB5D2A598715F6FA6DEBFDBE40EE6DA47C715",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261025.1/MPS4-Fenix-Setup-20261025.1.exe"
 }
