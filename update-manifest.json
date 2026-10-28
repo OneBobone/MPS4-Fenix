@@ -1,7 +1,7 @@
 {
-  "version": "20261027.1",
-  "notes": "Spotify no longer plays the wrong song for tracks on the second or later disc of an album. Spotify search works again in Fenix and MusicPort. SiriusXM now uses SiriusXM\u0027s current streaming service, with live channels, Xtra channels, on-demand shows, search, For You and SiriusXM favorites (US and Canada subscriptions). The Config Library page is now called Media Library Manager.",
-  "installer": "MPS4-Fenix-Setup-20261027.1.exe",
-  "sha256": "1C5366DD8788C53E0BB3FF5FADDE4BF26BDCA49B7125558C7848A2797DFB0E55",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261027.1/MPS4-Fenix-Setup-20261027.1.exe"
+  "version": "20261028.1",
+  "notes": "- Media Library Manager: removing tracks that come from a sync PC now removes only the selected tracks and takes seconds instead of minutes.\r\n- Tracks that two sync PCs both supply no longer disappear from the library after one of them syncs.\r\n- Media Library Manager lists each sync PC with its track count and last sync, and opens faster.\r\n- Apps, devices and the status page now show the installed Fenix release number.",
+  "installer": "MPS4-Fenix-Setup-20261028.1.exe",
+  "sha256": "54660782C76B6AEAFB642FB1F69F09A309218E6C1C3EACB672F634EA92C42D94",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261028.1/MPS4-Fenix-Setup-20261028.1.exe"
 }
