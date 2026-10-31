@@ -1,7 +1,7 @@
 {
-  "version": "20261028.1",
-  "notes": "- Media Library Manager: removing tracks that come from a sync PC now removes only the selected tracks and takes seconds instead of minutes.\r\n- Tracks that two sync PCs both supply no longer disappear from the library after one of them syncs.\r\n- Media Library Manager lists each sync PC with its track count and last sync, and opens faster.\r\n- Apps, devices and the status page now show the installed Fenix release number.",
-  "installer": "MPS4-Fenix-Setup-20261028.1.exe",
-  "sha256": "54660782C76B6AEAFB642FB1F69F09A309218E6C1C3EACB672F634EA92C42D94",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261028.1/MPS4-Fenix-Setup-20261028.1.exe"
+  "version": "20261031.1",
+  "notes": "- TuneBridge 2.0 works with Fenix: zone groups, source selection, transport and now playing.\n- Scenes and schedules can be created and recalled from TuneBridge; scene schedules can be edited on the Schedule page.\n- A zone turned on from TuneBridge or Mirage now starts on the first free music player, never on an auxiliary source.\n- Auxiliary sources: play/pause and track position now update in all apps, and the TuneBridge mini player shows their track and artwork.\n- Switching a player from one radio station to another no longer leaves the old station\u0027s track info on screen.\n- Calm Radio channels in Recently Played play again, and the current track stays on screen.\n- TuneIn: song artwork is shown when available, otherwise the station logo; station logos are no longer replaced by song pictures.\n- \"Unknown\" is no longer shown as the track name for radio stations.\n- Auxiliary sources keep working after the configuration is rebuilt.",
+  "installer": "MPS4-Fenix-Setup-20261031.1.exe",
+  "sha256": "1F69182DACED8907536B9865DD9FFDCEDBACF1B452258A7F5978AFD0FF65A2FB",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261031.1/MPS4-Fenix-Setup-20261031.1.exe"
 }
