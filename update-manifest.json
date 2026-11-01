@@ -1,7 +1,7 @@
 {
-  "version": "20261101.1",
-  "notes": "- Improves Media Library Manager browsing and removal of large track selections.\n- Adds 500- and 1,000-track page options with clear selection confirmation.\n- Shows configured zone display names consistently in zone groups.",
-  "installer": "MPS4-Fenix-Setup-20261101.1.exe",
-  "sha256": "36E2F57E5D311265209CF1643025B3B12A6D21F60E48088B2D0495F30991961F",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261101.1/MPS4-Fenix-Setup-20261101.1.exe"
+  "version": "20261101.2",
+  "notes": "- Zone display names set on the Aux page now show in TuneBridge and Mirage zone lists and groups.\n- Library page: Remove all removes every track of the current tab and search at once, with a confirmation, instead of 100 at a time.\n- Removing many library tracks at once is more reliable.\n- The media server keeps its log files from earlier runs across restarts.",
+  "installer": "MPS4-Fenix-Setup-20261101.2.exe",
+  "sha256": "0C2DDBF246EC19BD62DE464776FDAA5348F5C6E9A5F92F98892850F9E0FC89D0",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261101.2/MPS4-Fenix-Setup-20261101.2.exe"
 }
