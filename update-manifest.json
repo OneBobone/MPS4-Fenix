@@ -1,7 +1,7 @@
 {
-  "version": "20261031.2",
-  "notes": "- MusicPort, Fenix and CasaNova: tap Edit in the queue to drag songs into a new order or remove them.\n- CasaNova now shows the queue on phones and in portrait, and the queue loads reliably.\n- The Schedule page is split into Scenes (music, zones and volumes) and Schedules (when a scene starts and stops). Existing schedules are converted automatically.\n- Fenix: the mini player artwork updates again.\n- The Config page logo no longer opens an external web site.",
-  "installer": "MPS4-Fenix-Setup-20261031.2.exe",
-  "sha256": "9DA11553BC8494CB75B1EFF869E9FBAB1A612B722D6D96899BEF17654D2BDA1F",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261031.2/MPS4-Fenix-Setup-20261031.2.exe"
+  "version": "20261101.1",
+  "notes": "- Improves Media Library Manager browsing and removal of large track selections.\n- Adds 500- and 1,000-track page options with clear selection confirmation.\n- Shows configured zone display names consistently in zone groups.",
+  "installer": "MPS4-Fenix-Setup-20261101.1.exe",
+  "sha256": "36E2F57E5D311265209CF1643025B3B12A6D21F60E48088B2D0495F30991961F",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261101.1/MPS4-Fenix-Setup-20261101.1.exe"
 }
