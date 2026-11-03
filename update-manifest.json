@@ -1,7 +1,7 @@
 {
-  "version": "20261102.1",
-  "notes": "- Reorder playlist tracks by dragging them in Media Library Manager.\n- Improved playlist editing responsiveness and reliability.",
-  "installer": "MPS4-Fenix-Setup-20261102.1.exe",
-  "sha256": "8E1839588E4C7662B206B85F6E495B4B9E087739016381C668D3988016CFB0EC",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261102.1/MPS4-Fenix-Setup-20261102.1.exe"
+  "version": "20261103.1",
+  "notes": "- Added more flexible Media Library search with multiple words, exclusions, and field filters.\n- Corrected the result shown after bulk track removal.",
+  "installer": "MPS4-Fenix-Setup-20261103.1.exe",
+  "sha256": "8B894098A2B8B794436D7A1F88ACD1EE5FCBE16E8186D1714EB6BE339A05C074",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261103.1/MPS4-Fenix-Setup-20261103.1.exe"
 }
