@@ -1,7 +1,7 @@
 {
-  "version": "20261103.2",
-  "notes": "- Improved alphabet navigation for local music in Fenix, MusicPort, and CasaNova.\n- Refined MusicPort album tiles and library spacing for tablet screens.",
-  "installer": "MPS4-Fenix-Setup-20261103.2.exe",
-  "sha256": "AEAD8E1A51596EEC146E8BF079D04857616FB9D088616EC28ABF6C13141F118B",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261103.2/MPS4-Fenix-Setup-20261103.2.exe"
+  "version": "20261104.1",
+  "notes": "- Improves navigation and scrolling in large music libraries across Fenix, MusicPort, and CasaNova.\n- Makes alphabet navigation and page loading more reliable when browsing local music.",
+  "installer": "MPS4-Fenix-Setup-20261104.1.exe",
+  "sha256": "FCF389543DECB9EBC2161FB4FF18633E6ED42D54293D0337F623DB9378013088",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261104.1/MPS4-Fenix-Setup-20261104.1.exe"
 }
