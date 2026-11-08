@@ -1,7 +1,7 @@
 {
-  "version": "20261104.1",
-  "notes": "- Improves navigation and scrolling in large music libraries across Fenix, MusicPort, and CasaNova.\n- Makes alphabet navigation and page loading more reliable when browsing local music.",
-  "installer": "MPS4-Fenix-Setup-20261104.1.exe",
-  "sha256": "FCF389543DECB9EBC2161FB4FF18633E6ED42D54293D0337F623DB9378013088",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261104.1/MPS4-Fenix-Setup-20261104.1.exe"
+  "version": "20261108.1",
+  "notes": "- Media Library search now understands several words (all must match), | or OR for either, \"quotes\" for exact words, -word to exclude, and artist:, album:, title: or genre: to search one field.\n- \"Remove all\" in the Media Library now works on every matching track and reports only what was actually removed.\n- Playlists in the Media Library can be sorted by name, number of tracks or origin.\n- Several playlists can now be ticked and deleted in one step.\n- Playlists from a sync program can now be deleted and edited, so a library that is no longer synced can be tidied on the server.\n- MusicPort adds A-Z navigation for albums.",
+  "installer": "MPS4-Fenix-Setup-20261108.1.exe",
+  "sha256": "EE17EC4D44BBCAA4976179C034A2A276F42DA9FBDADBE25B5E03E194A508DC6E",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261108.1/MPS4-Fenix-Setup-20261108.1.exe"
 }
