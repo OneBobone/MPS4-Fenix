@@ -1,7 +1,7 @@
 {
-  "version": "20261108.2",
-  "notes": "- Deleting several playlists at once now works when many playlists share a name, as playlists from a sync program often do: tick them all (or use Select all) and every one is deleted, with no renaming needed.\r\n- A playlist\u0027s own Delete button now offers to delete all playlists with that name, instead of refusing.",
-  "installer": "MPS4-Fenix-Setup-20261108.2.exe",
-  "sha256": "6FDBC845293D456FC2BF642846A4D5113B77F5CF33EE583F27CB28F4473161C3",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261108.2/MPS4-Fenix-Setup-20261108.2.exe"
+  "version": "20261109.1",
+  "notes": "- Deleting many playlists at once now works for any number: the selected playlists are deleted in batches, with progress shown and a combined report at the end. Before, only the first ~200 of a large selection were deleted.\r\n- Configuration pages now handle large forms correctly. Any form over 8 KB used to arrive damaged, which also cut a large playlist selection short. An upload that is cut off no longer ties up the server.",
+  "installer": "MPS4-Fenix-Setup-20261109.1.exe",
+  "sha256": "F57989508FB0D78F7FE55CDD5DCE33D955AAB5A16C4A655B626E79A26A0B4688",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.1/MPS4-Fenix-Setup-20261109.1.exe"
 }
