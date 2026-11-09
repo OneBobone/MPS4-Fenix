@@ -1,7 +1,7 @@
 {
-  "version": "20261109.2",
-  "notes": "- The installer now records in its setup log why the player programs could not be restarted after an update (who was logged on, and the error from Windows), so a machine whose players stay stopped can be diagnosed from the uploaded logs.",
-  "installer": "MPS4-Fenix-Setup-20261109.2.exe",
-  "sha256": "DE67EE6DFCF2B2989387AC5136778A63248476C47987BFF102262285314082BF",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.2/MPS4-Fenix-Setup-20261109.2.exe"
+  "version": "20261109.3",
+  "notes": "- MusicPort: opening an album now lists its own songs instead of a list of albums, and closing it returns to the full album list.\r\n- Fenix: \"Play now\" and \"Add to queue\" on an album\u0027s \"Play all\" row now play the album, playlist or artist instead of doing nothing.\r\n- Configuration pages now show a clear message when an action fails, for example when a log upload is too large to send.",
+  "installer": "MPS4-Fenix-Setup-20261109.3.exe",
+  "sha256": "9A2B2324F4715350F77512AC1FED30ED63D777B7D9E469F87CFDDF84D798EA52",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.3/MPS4-Fenix-Setup-20261109.3.exe"
 }
