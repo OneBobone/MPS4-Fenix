@@ -1,7 +1,7 @@
 {
-  "version": "20261109.1",
-  "notes": "- Deleting many playlists at once now works for any number: the selected playlists are deleted in batches, with progress shown and a combined report at the end. Before, only the first ~200 of a large selection were deleted.\r\n- Configuration pages now handle large forms correctly. Any form over 8 KB used to arrive damaged, which also cut a large playlist selection short. An upload that is cut off no longer ties up the server.",
-  "installer": "MPS4-Fenix-Setup-20261109.1.exe",
-  "sha256": "F57989508FB0D78F7FE55CDD5DCE33D955AAB5A16C4A655B626E79A26A0B4688",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.1/MPS4-Fenix-Setup-20261109.1.exe"
+  "version": "20261109.2",
+  "notes": "- The installer now records in its setup log why the player programs could not be restarted after an update (who was logged on, and the error from Windows), so a machine whose players stay stopped can be diagnosed from the uploaded logs.",
+  "installer": "MPS4-Fenix-Setup-20261109.2.exe",
+  "sha256": "DE67EE6DFCF2B2989387AC5136778A63248476C47987BFF102262285314082BF",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.2/MPS4-Fenix-Setup-20261109.2.exe"
 }
