@@ -1,7 +1,7 @@
 {
-  "version": "20261110.1",
-  "notes": "- Updates no longer reinstall the Microsoft Visual C++ 2005 runtime every time. When that reinstall failed, the update stopped before installing.\r\n- Media Library: a search containing an apostrophe, such as \"Don\u0027t Stop\", is no longer cut short after removing tracks.",
-  "installer": "MPS4-Fenix-Setup-20261110.1.exe",
-  "sha256": "9AE7144285888B38BD3BB36E253F4920A5214D2602569C08410A5A7479E6E676",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261110.1/MPS4-Fenix-Setup-20261110.1.exe"
+  "version": "20261110.2",
+  "notes": "- After an update, the music players now restart even on PCs where Windows Task Scheduler cannot be used. Before, they stayed off until the next restart or logon.\r\n- If the players cannot be restarted after an update, the setup log now records why.",
+  "installer": "MPS4-Fenix-Setup-20261110.2.exe",
+  "sha256": "4EE4E95B441AB13B8866823EC6B38230F2535C2C1CCA986DB49C1676CB60441D",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261110.2/MPS4-Fenix-Setup-20261110.2.exe"
 }
