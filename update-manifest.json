@@ -1,7 +1,7 @@
 {
-  "version": "20261109.3",
-  "notes": "- MusicPort: opening an album now lists its own songs instead of a list of albums, and closing it returns to the full album list.\r\n- Fenix: \"Play now\" and \"Add to queue\" on an album\u0027s \"Play all\" row now play the album, playlist or artist instead of doing nothing.\r\n- Configuration pages now show a clear message when an action fails, for example when a log upload is too large to send.",
-  "installer": "MPS4-Fenix-Setup-20261109.3.exe",
-  "sha256": "9A2B2324F4715350F77512AC1FED30ED63D777B7D9E469F87CFDDF84D798EA52",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261109.3/MPS4-Fenix-Setup-20261109.3.exe"
+  "version": "20261110.1",
+  "notes": "- Updates no longer reinstall the Microsoft Visual C++ 2005 runtime every time. When that reinstall failed, the update stopped before installing.\r\n- Media Library: a search containing an apostrophe, such as \"Don\u0027t Stop\", is no longer cut short after removing tracks.",
+  "installer": "MPS4-Fenix-Setup-20261110.1.exe",
+  "sha256": "9AE7144285888B38BD3BB36E253F4920A5214D2602569C08410A5A7479E6E676",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261110.1/MPS4-Fenix-Setup-20261110.1.exe"
 }
