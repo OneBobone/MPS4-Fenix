@@ -1,13 +1,13 @@
 {
-  "version": "20261122.2",
-  "notes": "- Windows XP MPS4 units can now update themselves from the Config Software page.",
-  "installer": "MPS4-Fenix-Setup-20261122.2.exe",
-  "sha256": "42244AA410DFBC17DD0B6D2EF6F0B2F357620C00EE71BCDC1804C67BFAD5F14D",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.2/MPS4-Fenix-Setup-20261122.2.exe",
+  "version": "20261122.3",
+  "notes": "- Spotify and TIDAL: the Content tab now explains how to sign in, and signing in can only be started on the MPS4 itself.\n- Windows XP MPS4 units keep their remote console available after an update.\n- Windows XP: saving the configuration no longer logs an error.",
+  "installer": "MPS4-Fenix-Setup-20261122.3.exe",
+  "sha256": "7789BB1659CCD2BE5B529390AA5CDA496F481D96BAF2F7E2D61D190AD8CCB32C",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.3/MPS4-Fenix-Setup-20261122.3.exe",
   "xp": {
-    "version": "20261122.2",
-    "installer": "MPS4-Fenix-Setup-XP-20261122.2.exe",
-    "sha256": "DF2FC9B3F92ABABD2F55CAB5671E34AFF873C27252EE5955C344F0BE8152B804",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.2/MPS4-Fenix-Setup-XP-20261122.2.exe"
+    "version": "20261122.3",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.3.exe",
+    "sha256": "0979180342871A149C9E64C440F528D2798C7C0E3E9C8E44866B74DE0AE93443",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.3/MPS4-Fenix-Setup-XP-20261122.3.exe"
   }
 }
