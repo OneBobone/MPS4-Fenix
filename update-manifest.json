@@ -1,7 +1,13 @@
 {
-  "version": "20261122.1",
-  "notes": "Output settings: saving from the Configurator no longer removes split outputs, and the Sources page no longer shows stale outputs or writes unchanged ones back.",
-  "installer": "MPS4-Fenix-Setup-20261122.1.exe",
-  "sha256": "0BFE6EDC28053650807B27FD473CFB1D46605A746EAADE1A0798A244DAB2FCA0",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.1/MPS4-Fenix-Setup-20261122.1.exe"
+  "version": "20261122.2",
+  "notes": "- Windows XP MPS4 units can now update themselves from the Config Software page.",
+  "installer": "MPS4-Fenix-Setup-20261122.2.exe",
+  "sha256": "42244AA410DFBC17DD0B6D2EF6F0B2F357620C00EE71BCDC1804C67BFAD5F14D",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.2/MPS4-Fenix-Setup-20261122.2.exe",
+  "xp": {
+    "version": "20261122.2",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.2.exe",
+    "sha256": "DF2FC9B3F92ABABD2F55CAB5671E34AFF873C27252EE5955C344F0BE8152B804",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.2/MPS4-Fenix-Setup-XP-20261122.2.exe"
+  }
 }
