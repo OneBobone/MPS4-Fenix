@@ -1,13 +1,13 @@
 {
-  "version": "20261122.5",
-  "notes": "- New: MPS4 Fenix Installer for XP, a Windows program that sets up an MPS4 running Windows XP from your PC.\n- After that setup, the Config page opens in the MPS4\u0027s browser right away.",
-  "installer": "MPS4-Fenix-Setup-20261122.5.exe",
-  "sha256": "95438AA729680B713807E65BF363FF162185BB8908AAC5DB7735D7ACECF0754D",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.5/MPS4-Fenix-Setup-20261122.5.exe",
+  "version": "20261122.6",
+  "notes": "- MPS4 Fenix Installer for XP now carries its own small helper and downloads the XP installer directly, so a release needs fewer downloads.\n- The Windows XP installer is about 2 MB smaller.",
+  "installer": "MPS4-Fenix-Setup-20261122.6.exe",
+  "sha256": "2B98E1B54AAC24D88BA8076F50E73A622EB17237967D8A9CA7C7EEAF345D096F",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.6/MPS4-Fenix-Setup-20261122.6.exe",
   "xp": {
-    "version": "20261122.5",
-    "installer": "MPS4-Fenix-Setup-XP-20261122.5.exe",
-    "sha256": "A44637157B1AC6B3535AD3B54669B7D87C56214ADADF00DBC93823274701C286",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.5/MPS4-Fenix-Setup-XP-20261122.5.exe"
+    "version": "20261122.6",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.6.exe",
+    "sha256": "1CBEEA8D01F88F2B9F692F8A03FA0CD1E62FAE4FDE1FF81E57E238015136581D",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.6/MPS4-Fenix-Setup-XP-20261122.6.exe"
   }
 }
