@@ -1,13 +1,13 @@
 {
-  "version": "20261122.4",
-  "notes": "- Windows XP MPS4 units now show the NuVo logo and the MPS4 Fenix name in the Config header.\n- Signing in to Spotify or TIDAL from another computer now explains that it has to be done on the MPS4 itself.\n- The Config pages now pick up their latest styling right after an update.",
-  "installer": "MPS4-Fenix-Setup-20261122.4.exe",
-  "sha256": "6FCA2FAA60F52D2A1084FBA39FEAD64AC773F68545007D5AE0AA11593A147491",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.4/MPS4-Fenix-Setup-20261122.4.exe",
+  "version": "20261122.5",
+  "notes": "- New: MPS4 Fenix Installer for XP, a Windows program that sets up an MPS4 running Windows XP from your PC.\n- After that setup, the Config page opens in the MPS4\u0027s browser right away.",
+  "installer": "MPS4-Fenix-Setup-20261122.5.exe",
+  "sha256": "95438AA729680B713807E65BF363FF162185BB8908AAC5DB7735D7ACECF0754D",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.5/MPS4-Fenix-Setup-20261122.5.exe",
   "xp": {
-    "version": "20261122.4",
-    "installer": "MPS4-Fenix-Setup-XP-20261122.4.exe",
-    "sha256": "16FA93EE7376739B3EBDB126BA7AD1C34BC349BBB863075920965E1477CB2DB2",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.4/MPS4-Fenix-Setup-XP-20261122.4.exe"
+    "version": "20261122.5",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.5.exe",
+    "sha256": "A44637157B1AC6B3535AD3B54669B7D87C56214ADADF00DBC93823274701C286",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.5/MPS4-Fenix-Setup-XP-20261122.5.exe"
   }
 }
