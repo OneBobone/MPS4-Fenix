@@ -1,13 +1,13 @@
 {
-  "version": "20261122.6",
-  "notes": "- MPS4 Fenix Installer for XP now carries its own small helper and downloads the XP installer directly, so a release needs fewer downloads.\n- The Windows XP installer is about 2 MB smaller.",
-  "installer": "MPS4-Fenix-Setup-20261122.6.exe",
-  "sha256": "2B98E1B54AAC24D88BA8076F50E73A622EB17237967D8A9CA7C7EEAF345D096F",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.6/MPS4-Fenix-Setup-20261122.6.exe",
+  "version": "20261122.7",
+  "notes": "- Content tab: the Spotify and TIDAL sign-in steps are clearer, with links to Spotify.com and tidal.com, and the generic sign-up line is gone for these two services.\n- Windows XP: radio, Pandora and Spotify artwork now loads reliably.",
+  "installer": "MPS4-Fenix-Setup-20261122.7.exe",
+  "sha256": "E715C726D5A9973A4CE6491B1826C2AC757EA2F218B4B48B317EBAC166018446",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.7/MPS4-Fenix-Setup-20261122.7.exe",
   "xp": {
-    "version": "20261122.6",
-    "installer": "MPS4-Fenix-Setup-XP-20261122.6.exe",
-    "sha256": "1CBEEA8D01F88F2B9F692F8A03FA0CD1E62FAE4FDE1FF81E57E238015136581D",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.6/MPS4-Fenix-Setup-XP-20261122.6.exe"
+    "version": "20261122.7",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.7.exe",
+    "sha256": "0281FA6A5CDA1F1F23A64DE621D3900418B5A948A954985629605D51AB0E3CE0",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.7/MPS4-Fenix-Setup-XP-20261122.7.exe"
   }
 }
