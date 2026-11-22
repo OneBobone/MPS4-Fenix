@@ -1,13 +1,13 @@
 {
-  "version": "20261122.7",
-  "notes": "- Content tab: the Spotify and TIDAL sign-in steps are clearer, with links to Spotify.com and tidal.com, and the generic sign-up line is gone for these two services.\n- Windows XP: radio, Pandora and Spotify artwork now loads reliably.",
-  "installer": "MPS4-Fenix-Setup-20261122.7.exe",
-  "sha256": "E715C726D5A9973A4CE6491B1826C2AC757EA2F218B4B48B317EBAC166018446",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.7/MPS4-Fenix-Setup-20261122.7.exe",
+  "version": "20261122.8",
+  "notes": "- Windows XP: fixes SiriusXM channels not starting (\"could not connect\") even though the account validated on the Content page.",
+  "installer": "MPS4-Fenix-Setup-20261122.8.exe",
+  "sha256": "49920C14C49823417578F0FAB93DB1E952EB90489581C63BCB0B7EB9B55E30F2",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.8/MPS4-Fenix-Setup-20261122.8.exe",
   "xp": {
-    "version": "20261122.7",
-    "installer": "MPS4-Fenix-Setup-XP-20261122.7.exe",
-    "sha256": "0281FA6A5CDA1F1F23A64DE621D3900418B5A948A954985629605D51AB0E3CE0",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.7/MPS4-Fenix-Setup-XP-20261122.7.exe"
+    "version": "20261122.8",
+    "installer": "MPS4-Fenix-Setup-XP-20261122.8.exe",
+    "sha256": "F70CCFFA7AB3A0E16200B2E9E3BADA2E667891204F5BFCC1212C63DA9AA7B192",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261122.8/MPS4-Fenix-Setup-XP-20261122.8.exe"
   }
 }
