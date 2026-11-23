@@ -1,13 +1,13 @@
 {
-  "version": "20261123.1",
-  "notes": "- SiriusXM: fixes sessions that dropped after sign-in, so channels start reliably.\r\n- Pandora: tracks start more reliably and are skipped less often on slow connections.\r\n- TuneIn: more stations play, because all current stream formats are now requested.\r\n- TuneIn: if a station\u0027s first stream fails, its other streams are tried before giving up.\r\n- TuneIn: when a station cannot be played, a message says so and the zone stops instead of staying silent.\r\n- Windows XP: radio stations that stream over https now play, including stations on non-standard ports.\r\n- Calm Radio: free accounts only list channels they can play.\r\n- NuVo: fixes TuneIn Favorites and menu errors on NuVo panels.\r\n- Media library sync no longer treats the server as new after every restart.\r\n- Diagnostic logs sent from the Config page are now complete.",
-  "installer": "MPS4-Fenix-Setup-20261123.1.exe",
-  "sha256": "7131F4341495289994D5F47DC77F08154194B59967E6AE774140F7CBE64BD2B6",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.1/MPS4-Fenix-Setup-20261123.1.exe",
+  "version": "20261123.2",
+  "notes": "- Windows XP: all online services now connect through the built-in modern encryption, so more services sign in and play on Windows XP.\r\n- Windows XP: the list of trusted certificate authorities is now kept up to date automatically.\r\n- TuneBridge: service badges now show with transparent backgrounds, and the local music badge appears.",
+  "installer": "MPS4-Fenix-Setup-20261123.2.exe",
+  "sha256": "2248D19A5D0504B879E9559509615FA1AE8C823E270141BCE9F875D167020D09",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.2/MPS4-Fenix-Setup-20261123.2.exe",
   "xp": {
-    "version": "20261123.1",
-    "installer": "MPS4-Fenix-Setup-XP-20261123.1.exe",
-    "sha256": "CD32E47AFF7B833426D5F2B89A2E4346146BFC7B7F814833F03BC4F9982225F3",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.1/MPS4-Fenix-Setup-XP-20261123.1.exe"
+    "version": "20261123.2",
+    "installer": "MPS4-Fenix-Setup-XP-20261123.2.exe",
+    "sha256": "11B28816D914E41FDF4EBB6F8D4C0065371DA58521C02D5594014070E0C98FCA",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.2/MPS4-Fenix-Setup-XP-20261123.2.exe"
   }
 }
