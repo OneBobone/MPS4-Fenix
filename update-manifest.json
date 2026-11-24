@@ -1,13 +1,13 @@
 {
-  "version": "20261124.3",
-  "notes": "- Saving on the Aux page now restarts the server and the players on Windows XP too, and never leaves the zones silent if the restart cannot be done.\n- On Windows XP, the media server and Remote Configuration start again by themselves if they stop unexpectedly.\n- The update screen now recognises when the players are back on servers with fewer than four sources, instead of asking for a restart.\n- Pressing Restart on the update screen now confirms that the restart was requested.\n- Helper scripts for the NuVo control pads now run on Windows XP.",
-  "installer": "MPS4-Fenix-Setup-20261124.3.exe",
-  "sha256": "0AEF4DD9F8890631CB4C2667C39C207D3145FAD9D0E4F2B5C4F81BDC863F84B6",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.3/MPS4-Fenix-Setup-20261124.3.exe",
+  "version": "20261124.4",
+  "notes": "- Updates on Windows XP finish about four minutes sooner: the Supermium browser is no longer downloaded again when it is already installed.\n- On Windows XP, the update screen no longer goes back to \"Applying server configuration...\" after the update has finished.",
+  "installer": "MPS4-Fenix-Setup-20261124.4.exe",
+  "sha256": "EBD4653C44DD8A7965DDD2AF1A381359CDD5AA839B49CF334458DD0044A63E08",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.4/MPS4-Fenix-Setup-20261124.4.exe",
   "xp": {
-    "version": "20261124.3",
-    "installer": "MPS4-Fenix-Setup-XP-20261124.3.exe",
-    "sha256": "4866FFC4D84E042890FA1F194B9583DA6153F874B3793206FAC08031ACADD7F6",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.3/MPS4-Fenix-Setup-XP-20261124.3.exe"
+    "version": "20261124.4",
+    "installer": "MPS4-Fenix-Setup-XP-20261124.4.exe",
+    "sha256": "176F589E164E990034758DABFFF11497E819634F8E61F119B5444DA0B430D44B",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.4/MPS4-Fenix-Setup-XP-20261124.4.exe"
   }
 }
