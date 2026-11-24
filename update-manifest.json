@@ -1,13 +1,13 @@
 {
-  "version": "20261124.1",
-  "notes": "- Updating from within the product no longer cancels itself on computers where Windows Media Player is turned off or missing.\n- If an update does stop part-way, Media Control Server and the player zones are started again instead of staying off.\n- The update screen no longer says \"Update complete\" before the installation has actually started.",
-  "installer": "MPS4-Fenix-Setup-20261124.1.exe",
-  "sha256": "E9E561A5B26851C207A7DC9D6A3A3189943B37484672CDB0A2A3E61716277532",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.1/MPS4-Fenix-Setup-20261124.1.exe",
+  "version": "20261124.2",
+  "notes": "- If an update cannot finish, the update screen now says why and what to do, instead of the reason being hidden in a log.\n- Problems that do not stop an update are listed on the update screen at the end, each with what to do, and stay on the Firmware page until they are fixed.\n- The Firmware page tells you when Windows Media Player is missing on the server and how to turn it back on.",
+  "installer": "MPS4-Fenix-Setup-20261124.2.exe",
+  "sha256": "F14E35927B0D269184C08579FD22B208666CBA73F3AACA9CD29AEAB43C5E26EF",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.2/MPS4-Fenix-Setup-20261124.2.exe",
   "xp": {
-    "version": "20261124.1",
-    "installer": "MPS4-Fenix-Setup-XP-20261124.1.exe",
-    "sha256": "DEA9833ED2EF4005752C1C5AEF57856F0147C0A6D02FF503832058FAE036E72D",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.1/MPS4-Fenix-Setup-XP-20261124.1.exe"
+    "version": "20261124.2",
+    "installer": "MPS4-Fenix-Setup-XP-20261124.2.exe",
+    "sha256": "B5FB40D837E28D6785F43AAED0DD7154E96A4D102F7499B02E0F05669B0AB2D1",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.2/MPS4-Fenix-Setup-XP-20261124.2.exe"
   }
 }
