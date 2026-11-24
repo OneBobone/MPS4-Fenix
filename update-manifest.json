@@ -1,13 +1,13 @@
 {
-  "version": "20261123.3",
-  "notes": "- Windows 7: updating from within the product no longer stops at an invisible question on computers without .NET Framework 4.6, so the update now completes.\n- Media Control Server starts again after a restart that took too long, instead of staying stopped until the computer is restarted.",
-  "installer": "MPS4-Fenix-Setup-20261123.3.exe",
-  "sha256": "D780842A7344ADF2C085C8E86EF1EFF2F232274FFB200A2F3C7B13C9E3A0BA1B",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.3/MPS4-Fenix-Setup-20261123.3.exe",
+  "version": "20261124.1",
+  "notes": "- Updating from within the product no longer cancels itself on computers where Windows Media Player is turned off or missing.\n- If an update does stop part-way, Media Control Server and the player zones are started again instead of staying off.\n- The update screen no longer says \"Update complete\" before the installation has actually started.",
+  "installer": "MPS4-Fenix-Setup-20261124.1.exe",
+  "sha256": "E9E561A5B26851C207A7DC9D6A3A3189943B37484672CDB0A2A3E61716277532",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.1/MPS4-Fenix-Setup-20261124.1.exe",
   "xp": {
-    "version": "20261123.3",
-    "installer": "MPS4-Fenix-Setup-XP-20261123.3.exe",
-    "sha256": "FD7E0D8C057D0EB8F4209920D93E0AA71E5CF3D3F08B48348E626D2D225E6034",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261123.3/MPS4-Fenix-Setup-XP-20261123.3.exe"
+    "version": "20261124.1",
+    "installer": "MPS4-Fenix-Setup-XP-20261124.1.exe",
+    "sha256": "DEA9833ED2EF4005752C1C5AEF57856F0147C0A6D02FF503832058FAE036E72D",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.1/MPS4-Fenix-Setup-XP-20261124.1.exe"
   }
 }
