@@ -1,13 +1,13 @@
 {
-  "version": "20261126.1",
-  "notes": "- Audio outputs page: a change made on a page that was opened before the outputs were changed elsewhere (for example with the desktop Configurator) is no longer saved to the wrong output. The page now explains this and reloads so the change can be made again.\n- Audio outputs page: an output that was listed twice is cleaned up on the next save, so renaming or disabling it now sticks.\n- Audio outputs page: each change is sent once instead of three or four times.\n- New CPU and memory recording to find out why a box feels slow: the box now records which programs use the processor and how much memory is free, and this is included when you upload logs. For a closer look while the box is slow, tick \"Detailed CPU and memory recording\" in the Logging section of the Machine page; it switches itself off after 30 minutes. Then upload the logs.\n- Saving the audio outputs no longer makes the S/PDIF or HDMI output the Windows default sound device when that output is disabled. On an MPS4 using its MatchBox outputs, the desktop Configurator therefore no longer recreates an output on S/PDIF.",
-  "installer": "MPS4-Fenix-Setup-20261126.1.exe",
-  "sha256": "2C690E967284486CA1997358FCF1741BA96EF796B0E45AEFBC7F99AD3809403B",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.1/MPS4-Fenix-Setup-20261126.1.exe",
+  "version": "20261126.2",
+  "notes": "- Large music libraries no longer keep the box busy: the background search for album covers kept one processor core occupied for up to 20 minutes, again and again. It now recognises albums that already have their own cover picture, and only looks through the whole library when the library has changed (or once a day).\n- Waiting for a quiet moment no longer causes extra load: background tasks that wait while the box is busy now check the processor load once a second in a light way, instead of many times a second.\n- Uploading logs with \"Include media database\" now adds only the databases in use, without backup and duplicate copies. The upload is about half the size, and it no longer fails when a backup copy is present.\n- Pandora: if the genre stations could not be loaded (for example right after a restart), they are now tried again within minutes instead of staying empty for 12 hours.\n- Pandora: the routine renewal of the Pandora sign-in every few hours is no longer reported as an error in the logs.",
+  "installer": "MPS4-Fenix-Setup-20261126.2.exe",
+  "sha256": "28F222EB9960AC66FFA89C3BC89CA631A04D1370490BF89DC9112DF8E00E1C2B",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.2/MPS4-Fenix-Setup-20261126.2.exe",
   "xp": {
-    "version": "20261126.1",
-    "installer": "MPS4-Fenix-Setup-XP-20261126.1.exe",
-    "sha256": "F6A2DA8F6D36C573DA510008DE3B77F139CF610D0940372E48AA3537530E0CEE",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.1/MPS4-Fenix-Setup-XP-20261126.1.exe"
+    "version": "20261126.2",
+    "installer": "MPS4-Fenix-Setup-XP-20261126.2.exe",
+    "sha256": "95A415E2DD4EEC3E20994AC0CA8ADB2B133C2D52E40F1DB3D4489C1F26117D03",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.2/MPS4-Fenix-Setup-XP-20261126.2.exe"
   }
 }
