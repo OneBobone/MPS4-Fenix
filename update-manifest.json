@@ -1,13 +1,13 @@
 {
-  "version": "20261124.4",
-  "notes": "- Updates on Windows XP finish about four minutes sooner: the Supermium browser is no longer downloaded again when it is already installed.\n- On Windows XP, the update screen no longer goes back to \"Applying server configuration...\" after the update has finished.",
-  "installer": "MPS4-Fenix-Setup-20261124.4.exe",
-  "sha256": "EBD4653C44DD8A7965DDD2AF1A381359CDD5AA839B49CF334458DD0044A63E08",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.4/MPS4-Fenix-Setup-20261124.4.exe",
+  "version": "20261126.1",
+  "notes": "- Audio outputs page: a change made on a page that was opened before the outputs were changed elsewhere (for example with the desktop Configurator) is no longer saved to the wrong output. The page now explains this and reloads so the change can be made again.\n- Audio outputs page: an output that was listed twice is cleaned up on the next save, so renaming or disabling it now sticks.\n- Audio outputs page: each change is sent once instead of three or four times.\n- New CPU and memory recording to find out why a box feels slow: the box now records which programs use the processor and how much memory is free, and this is included when you upload logs. For a closer look while the box is slow, tick \"Detailed CPU and memory recording\" in the Logging section of the Machine page; it switches itself off after 30 minutes. Then upload the logs.\n- Saving the audio outputs no longer makes the S/PDIF or HDMI output the Windows default sound device when that output is disabled. On an MPS4 using its MatchBox outputs, the desktop Configurator therefore no longer recreates an output on S/PDIF.",
+  "installer": "MPS4-Fenix-Setup-20261126.1.exe",
+  "sha256": "2C690E967284486CA1997358FCF1741BA96EF796B0E45AEFBC7F99AD3809403B",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.1/MPS4-Fenix-Setup-20261126.1.exe",
   "xp": {
-    "version": "20261124.4",
-    "installer": "MPS4-Fenix-Setup-XP-20261124.4.exe",
-    "sha256": "176F589E164E990034758DABFFF11497E819634F8E61F119B5444DA0B430D44B",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261124.4/MPS4-Fenix-Setup-XP-20261124.4.exe"
+    "version": "20261126.1",
+    "installer": "MPS4-Fenix-Setup-XP-20261126.1.exe",
+    "sha256": "F6A2DA8F6D36C573DA510008DE3B77F139CF610D0940372E48AA3537530E0CEE",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.1/MPS4-Fenix-Setup-XP-20261126.1.exe"
   }
 }
