@@ -1,13 +1,13 @@
 {
-  "version": "20261126.2",
-  "notes": "- Large music libraries no longer keep the box busy: the background search for album covers kept one processor core occupied for up to 20 minutes, again and again. It now recognises albums that already have their own cover picture, and only looks through the whole library when the library has changed (or once a day).\n- Waiting for a quiet moment no longer causes extra load: background tasks that wait while the box is busy now check the processor load once a second in a light way, instead of many times a second.\n- Uploading logs with \"Include media database\" now adds only the databases in use, without backup and duplicate copies. The upload is about half the size, and it no longer fails when a backup copy is present.\n- Pandora: if the genre stations could not be loaded (for example right after a restart), they are now tried again within minutes instead of staying empty for 12 hours.\n- Pandora: the routine renewal of the Pandora sign-in every few hours is no longer reported as an error in the logs.",
-  "installer": "MPS4-Fenix-Setup-20261126.2.exe",
-  "sha256": "28F222EB9960AC66FFA89C3BC89CA631A04D1370490BF89DC9112DF8E00E1C2B",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.2/MPS4-Fenix-Setup-20261126.2.exe",
+  "version": "20261126.3",
+  "notes": "- Pandora: when a track does not start because Pandora\u0027s servers do not answer, the logs now show where the request stopped (finding the server, connecting to it, or waiting for its reply). Playback itself is unchanged. If Pandora tracks keep skipping with \"Failed to get content from Pandora\", please upload the logs after it happens.",
+  "installer": "MPS4-Fenix-Setup-20261126.3.exe",
+  "sha256": "A9B91C366C11740956521BEF5C2EAC202DBDA936A0613F7AC57A7AF612B2B200",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.3/MPS4-Fenix-Setup-20261126.3.exe",
   "xp": {
-    "version": "20261126.2",
-    "installer": "MPS4-Fenix-Setup-XP-20261126.2.exe",
-    "sha256": "95A415E2DD4EEC3E20994AC0CA8ADB2B133C2D52E40F1DB3D4489C1F26117D03",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.2/MPS4-Fenix-Setup-XP-20261126.2.exe"
+    "version": "20261126.3",
+    "installer": "MPS4-Fenix-Setup-XP-20261126.3.exe",
+    "sha256": "D259A70014226AD6228F208D0E9D60839DDCBF30CAB3527B3FC0A0AEB6349DCA",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.3/MPS4-Fenix-Setup-XP-20261126.3.exe"
   }
 }
