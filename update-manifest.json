@@ -1,13 +1,13 @@
 {
-  "version": "20261126.3",
-  "notes": "- Pandora: when a track does not start because Pandora\u0027s servers do not answer, the logs now show where the request stopped (finding the server, connecting to it, or waiting for its reply). Playback itself is unchanged. If Pandora tracks keep skipping with \"Failed to get content from Pandora\", please upload the logs after it happens.",
-  "installer": "MPS4-Fenix-Setup-20261126.3.exe",
-  "sha256": "A9B91C366C11740956521BEF5C2EAC202DBDA936A0613F7AC57A7AF612B2B200",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.3/MPS4-Fenix-Setup-20261126.3.exe",
+  "version": "20261127.2",
+  "notes": "- Installation: after an update the server is started again if its first start fails, for example while a virus scanner checks the new files.\n- Pandora: the log now shows how long Pandora takes to answer when a track does not start, to help find why some tracks are skipped on Windows XP.",
+  "installer": "MPS4-Fenix-Setup-20261127.2.exe",
+  "sha256": "A31D0116AC65DA51A3388E0F238CBBBB287DF54CE5AF30A5F94772BF50BF0FBC",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261127.2/MPS4-Fenix-Setup-20261127.2.exe",
   "xp": {
-    "version": "20261126.3",
-    "installer": "MPS4-Fenix-Setup-XP-20261126.3.exe",
-    "sha256": "D259A70014226AD6228F208D0E9D60839DDCBF30CAB3527B3FC0A0AEB6349DCA",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261126.3/MPS4-Fenix-Setup-XP-20261126.3.exe"
+    "version": "20261127.2",
+    "installer": "MPS4-Fenix-Setup-XP-20261127.2.exe",
+    "sha256": "AD770DA7C90C5E305D081E8C4B29ECFE322CCB25FA78E4A34A699CFC2A75CE4A",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261127.2/MPS4-Fenix-Setup-XP-20261127.2.exe"
   }
 }
