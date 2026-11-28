@@ -1,13 +1,13 @@
 {
-  "version": "20261127.2",
-  "notes": "- Installation: after an update the server is started again if its first start fails, for example while a virus scanner checks the new files.\n- Pandora: the log now shows how long Pandora takes to answer when a track does not start, to help find why some tracks are skipped on Windows XP.",
-  "installer": "MPS4-Fenix-Setup-20261127.2.exe",
-  "sha256": "A31D0116AC65DA51A3388E0F238CBBBB287DF54CE5AF30A5F94772BF50BF0FBC",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261127.2/MPS4-Fenix-Setup-20261127.2.exe",
+  "version": "20261128.1",
+  "notes": "- TuneIn and other radio sources no longer go silent on Windows XP after switching sources in a zone. The station and song titles kept updating while no sound came out until the server was restarted.\n- Sources are no longer muted while no zone is listening on systems without wireless speakers, as in version 7.4.\n- AirPlay output on Windows XP: playback no longer goes silent after a zone is turned on or a track starts.\n- Radio playback now records its audio output state in the log files every few seconds, to help find sound problems.\n- Config, Server page: the \"Detailed CPU and memory recording\" option is now called \"CPU and memory\".",
+  "installer": "MPS4-Fenix-Setup-20261128.1.exe",
+  "sha256": "FDCD7A972B11802CD86CB4B3CCF9614C720BDB24649C41B94E104837EEFE1DD2",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.1/MPS4-Fenix-Setup-20261128.1.exe",
   "xp": {
-    "version": "20261127.2",
-    "installer": "MPS4-Fenix-Setup-XP-20261127.2.exe",
-    "sha256": "AD770DA7C90C5E305D081E8C4B29ECFE322CCB25FA78E4A34A699CFC2A75CE4A",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261127.2/MPS4-Fenix-Setup-XP-20261127.2.exe"
+    "version": "20261128.1",
+    "installer": "MPS4-Fenix-Setup-XP-20261128.1.exe",
+    "sha256": "938DFC1CF7B5E5B624EDC04A08755A6A4ECE446309A1872C656D6CE673F9DB6D",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.1/MPS4-Fenix-Setup-XP-20261128.1.exe"
   }
 }
