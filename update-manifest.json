@@ -1,13 +1,13 @@
 {
-  "version": "20261128.2",
-  "notes": "- Pandora: the log files now show whether each item that played or failed was a song or an advertisement, to help find why some Pandora tracks do not start.",
-  "installer": "MPS4-Fenix-Setup-20261128.2.exe",
-  "sha256": "8460D238CA821C0343AB02F15DE15D811D488E948844619D3FDF437D91F36AE0",
-  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.2/MPS4-Fenix-Setup-20261128.2.exe",
+  "version": "20261128.3",
+  "notes": "- Fenix web app: the TuneIn menus (Favorites, Local Radio, By Location and the others) open again, and Back works in them.\n- Fenix web app: when you choose music that no zone is playing, the zone list opens right away, and the music starts in the zone you pick.\n- Fenix web app: a stopped player now shows the play button instead of the pause button.",
+  "installer": "MPS4-Fenix-Setup-20261128.3.exe",
+  "sha256": "F1099D2476F12A32DA73C016AEC9F5CBF9EBDC2D1FE4879813FB888CF79D1F89",
+  "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.3/MPS4-Fenix-Setup-20261128.3.exe",
   "xp": {
-    "version": "20261128.2",
-    "installer": "MPS4-Fenix-Setup-XP-20261128.2.exe",
-    "sha256": "C2841E29D39AED949AB4EDF1A03DA7441A669D7D424FF4BFD5ACD73F8BEE1B1A",
-    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.2/MPS4-Fenix-Setup-XP-20261128.2.exe"
+    "version": "20261128.3",
+    "installer": "MPS4-Fenix-Setup-XP-20261128.3.exe",
+    "sha256": "73F885FD36FDE0BED832F2F6BC6ED9771E6ABBF1A997533B562D13D457A5ECAE",
+    "download": "https://github.com/OneBobone/MPS4-Fenix/releases/download/fenix-20261128.3/MPS4-Fenix-Setup-XP-20261128.3.exe"
   }
 }
